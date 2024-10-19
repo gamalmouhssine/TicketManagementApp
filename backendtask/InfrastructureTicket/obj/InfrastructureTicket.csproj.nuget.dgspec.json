@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TicktTask\\backendtask\\InfrastructureTicket\\InfrastructureTicket.csproj": {}
+    "C:\\Users\\gamal\\OneDrive\\Documents\\TicketManagementApp\\backendtask\\InfrastructureTicket\\InfrastructureTicket.csproj": {}
   },
   "projects": {
-    "D:\\TicktTask\\backendtask\\CoreTicket\\CoreTicket.csproj": {
+    "C:\\Users\\gamal\\OneDrive\\Documents\\TicketManagementApp\\backendtask\\CoreTicket\\CoreTicket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TicktTask\\backendtask\\CoreTicket\\CoreTicket.csproj",
+        "projectUniqueName": "C:\\Users\\gamal\\OneDrive\\Documents\\TicketManagementApp\\backendtask\\CoreTicket\\CoreTicket.csproj",
         "projectName": "CoreTicket",
-        "projectPath": "D:\\TicktTask\\backendtask\\CoreTicket\\CoreTicket.csproj",
+        "projectPath": "C:\\Users\\gamal\\OneDrive\\Documents\\TicketManagementApp\\backendtask\\CoreTicket\\CoreTicket.csproj",
         "packagesPath": "C:\\Users\\gamal\\.nuget\\packages\\",
-        "outputPath": "D:\\TicktTask\\backendtask\\CoreTicket\\obj\\",
+        "outputPath": "C:\\Users\\gamal\\OneDrive\\Documents\\TicketManagementApp\\backendtask\\CoreTicket\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,14 +91,14 @@
         }
       }
     },
-    "D:\\TicktTask\\backendtask\\InfrastructureTicket\\InfrastructureTicket.csproj": {
+    "C:\\Users\\gamal\\OneDrive\\Documents\\TicketManagementApp\\backendtask\\InfrastructureTicket\\InfrastructureTicket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TicktTask\\backendtask\\InfrastructureTicket\\InfrastructureTicket.csproj",
+        "projectUniqueName": "C:\\Users\\gamal\\OneDrive\\Documents\\TicketManagementApp\\backendtask\\InfrastructureTicket\\InfrastructureTicket.csproj",
         "projectName": "InfrastructureTicket",
-        "projectPath": "D:\\TicktTask\\backendtask\\InfrastructureTicket\\InfrastructureTicket.csproj",
+        "projectPath": "C:\\Users\\gamal\\OneDrive\\Documents\\TicketManagementApp\\backendtask\\InfrastructureTicket\\InfrastructureTicket.csproj",
         "packagesPath": "C:\\Users\\gamal\\.nuget\\packages\\",
-        "outputPath": "D:\\TicktTask\\backendtask\\InfrastructureTicket\\obj\\",
+        "outputPath": "C:\\Users\\gamal\\OneDrive\\Documents\\TicketManagementApp\\backendtask\\InfrastructureTicket\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -120,8 +120,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\TicktTask\\backendtask\\CoreTicket\\CoreTicket.csproj": {
-                "projectPath": "D:\\TicktTask\\backendtask\\CoreTicket\\CoreTicket.csproj"
+              "C:\\Users\\gamal\\OneDrive\\Documents\\TicketManagementApp\\backendtask\\CoreTicket\\CoreTicket.csproj": {
+                "projectPath": "C:\\Users\\gamal\\OneDrive\\Documents\\TicketManagementApp\\backendtask\\CoreTicket\\CoreTicket.csproj"
               }
             }
           }
