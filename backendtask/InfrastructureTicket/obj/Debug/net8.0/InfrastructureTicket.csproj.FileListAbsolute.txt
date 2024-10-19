@@ -1,0 +1,17 @@
+D:\TicktTask\backendtask\InfrastructureTicket\bin\Debug\net8.0\InfrastructureTicket.deps.json
+D:\TicktTask\backendtask\InfrastructureTicket\bin\Debug\net8.0\InfrastructureTicket.runtimeconfig.json
+D:\TicktTask\backendtask\InfrastructureTicket\bin\Debug\net8.0\InfrastructureTicket.dll
+D:\TicktTask\backendtask\InfrastructureTicket\bin\Debug\net8.0\InfrastructureTicket.pdb
+D:\TicktTask\backendtask\InfrastructureTicket\bin\Debug\net8.0\CoreTicket.dll
+D:\TicktTask\backendtask\InfrastructureTicket\bin\Debug\net8.0\CoreTicket.pdb
+D:\TicktTask\backendtask\InfrastructureTicket\obj\Debug\net8.0\InfrastructureTicket.csproj.AssemblyReference.cache
+D:\TicktTask\backendtask\InfrastructureTicket\obj\Debug\net8.0\InfrastructureTicket.GeneratedMSBuildEditorConfig.editorconfig
+D:\TicktTask\backendtask\InfrastructureTicket\obj\Debug\net8.0\InfrastructureTicket.AssemblyInfoInputs.cache
+D:\TicktTask\backendtask\InfrastructureTicket\obj\Debug\net8.0\InfrastructureTicket.AssemblyInfo.cs
+D:\TicktTask\backendtask\InfrastructureTicket\obj\Debug\net8.0\InfrastructureTicket.csproj.CoreCompileInputs.cache
+D:\TicktTask\backendtask\InfrastructureTicket\obj\Debug\net8.0\Infrastr.20100B02.Up2Date
+D:\TicktTask\backendtask\InfrastructureTicket\obj\Debug\net8.0\InfrastructureTicket.dll
+D:\TicktTask\backendtask\InfrastructureTicket\obj\Debug\net8.0\refint\InfrastructureTicket.dll
+D:\TicktTask\backendtask\InfrastructureTicket\obj\Debug\net8.0\InfrastructureTicket.pdb
+D:\TicktTask\backendtask\InfrastructureTicket\obj\Debug\net8.0\InfrastructureTicket.genruntimeconfig.cache
+D:\TicktTask\backendtask\InfrastructureTicket\obj\Debug\net8.0\ref\InfrastructureTicket.dll

@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TicktTask\\backendtask\\TicketApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B285C1A2-6460-4689-AEFB-3B04E7E022B9}|..\\TicketManagementTests\\TicketManagementTests.csproj|d:\\tickttask\\backendtask\\ticketmanagementtests\\ticketscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B285C1A2-6460-4689-AEFB-3B04E7E022B9}|..\\TicketManagementTests\\TicketManagementTests.csproj|d:\\tickttask\\backendtask\\ticketmanagementtests\\ticketrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAC336F-DDEC-4177-8962-690A2262BB18}|..\\CoreTicket\\CoreTicket.csproj|d:\\tickttask\\backendtask\\coreticket\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TicktTask\\backendtask\\InfrastructureTicket\\Migrations\\20241019154449_secon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TicktTask\\backendtask\\InfrastructureTicket\\Migrations\\20241019152714_sec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C09F04-6145-446C-9300-37942429EDB2}|..\\InfrastructureTicket\\InfrastructureTicket.csproj|d:\\tickttask\\backendtask\\infrastructureticket\\infrastructureticket.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81489E38-D699-48A6-96E9-EF6D626A769C}|TicketApp.csproj|d:\\tickttask\\backendtask\\ticketapp\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81489E38-D699-48A6-96E9-EF6D626A769C}|TicketApp.csproj|solutionrelative:controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C09F04-6145-446C-9300-37942429EDB2}|..\\InfrastructureTicket\\InfrastructureTicket.csproj|d:\\tickttask\\backendtask\\infrastructureticket\\repositories\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAC336F-DDEC-4177-8962-690A2262BB18}|..\\CoreTicket\\CoreTicket.csproj|d:\\tickttask\\backendtask\\coreticket\\repositories\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAC336F-DDEC-4177-8962-690A2262BB18}|..\\CoreTicket\\CoreTicket.csproj|d:\\tickttask\\backendtask\\coreticket\\enums\\ticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241019154449_secon.cs",
+              "DocumentMoniker": "D:\\TicktTask\\backendtask\\InfrastructureTicket\\Migrations\\20241019154449_secon.cs",
+              "RelativeDocumentMoniker": "..\\InfrastructureTicket\\Migrations\\20241019154449_secon.cs",
+              "ToolTip": "D:\\TicktTask\\backendtask\\InfrastructureTicket\\Migrations\\20241019154449_secon.cs",
+              "RelativeToolTip": "..\\InfrastructureTicket\\Migrations\\20241019154449_secon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:44:49.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241019152714_sec.cs",
+              "DocumentMoniker": "D:\\TicktTask\\backendtask\\InfrastructureTicket\\Migrations\\20241019152714_sec.cs",
+              "RelativeDocumentMoniker": "..\\InfrastructureTicket\\Migrations\\20241019152714_sec.cs",
+              "ToolTip": "D:\\TicktTask\\backendtask\\InfrastructureTicket\\Migrations\\20241019152714_sec.cs",
+              "RelativeToolTip": "..\\InfrastructureTicket\\Migrations\\20241019152714_sec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:27:14.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InfrastructureTicket",
+              "DocumentMoniker": "D:\\TicktTask\\backendtask\\InfrastructureTicket\\InfrastructureTicket.csproj",
+              "RelativeDocumentMoniker": "..\\InfrastructureTicket\\InfrastructureTicket.csproj",
+              "ToolTip": "D:\\TicktTask\\backendtask\\InfrastructureTicket\\InfrastructureTicket.csproj",
+              "RelativeToolTip": "..\\InfrastructureTicket\\InfrastructureTicket.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T15:24:07.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketsControllerTests.cs",
+              "DocumentMoniker": "D:\\TicktTask\\backendtask\\TicketManagementTests\\TicketsControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\TicketManagementTests\\TicketsControllerTests.cs",
+              "ToolTip": "D:\\TicktTask\\backendtask\\TicketManagementTests\\TicketsControllerTests.cs",
+              "RelativeToolTip": "..\\TicketManagementTests\\TicketsControllerTests.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAiwFUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:08:34.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketRepositoryTests.cs",
+              "DocumentMoniker": "D:\\TicktTask\\backendtask\\TicketManagementTests\\TicketRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\TicketManagementTests\\TicketRepositoryTests.cs",
+              "ToolTip": "D:\\TicktTask\\backendtask\\TicketManagementTests\\TicketRepositoryTests.cs",
+              "RelativeToolTip": "..\\TicketManagementTests\\TicketRepositoryTests.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAEwGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:42:51.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITicketRepository.cs",
+              "DocumentMoniker": "D:\\TicktTask\\backendtask\\CoreTicket\\Repositories\\ITicketRepository.cs",
+              "RelativeDocumentMoniker": "..\\CoreTicket\\Repositories\\ITicketRepository.cs",
+              "ToolTip": "D:\\TicktTask\\backendtask\\CoreTicket\\Repositories\\ITicketRepository.cs",
+              "RelativeToolTip": "..\\CoreTicket\\Repositories\\ITicketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:58:14.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\TicktTask\\backendtask\\CoreTicket\\Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "..\\CoreTicket\\Entities\\Ticket.cs",
+              "ToolTip": "D:\\TicktTask\\backendtask\\CoreTicket\\Entities\\Ticket.cs",
+              "RelativeToolTip": "..\\CoreTicket\\Entities\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:58:12.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketStatus.cs",
+              "DocumentMoniker": "D:\\TicktTask\\backendtask\\CoreTicket\\Enums\\TicketStatus.cs",
+              "RelativeDocumentMoniker": "..\\CoreTicket\\Enums\\TicketStatus.cs",
+              "ToolTip": "D:\\TicktTask\\backendtask\\CoreTicket\\Enums\\TicketStatus.cs",
+              "RelativeToolTip": "..\\CoreTicket\\Enums\\TicketStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:58:10.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "D:\\TicktTask\\backendtask\\TicketApp\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketsController.cs",
+              "ToolTip": "D:\\TicktTask\\backendtask\\TicketApp\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "Controllers\\TicketsController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:54:05.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketRepository.cs",
+              "DocumentMoniker": "D:\\TicktTask\\backendtask\\InfrastructureTicket\\Repositories\\TicketRepository.cs",
+              "RelativeDocumentMoniker": "..\\InfrastructureTicket\\Repositories\\TicketRepository.cs",
+              "ToolTip": "D:\\TicktTask\\backendtask\\InfrastructureTicket\\Repositories\\TicketRepository.cs",
+              "RelativeToolTip": "..\\InfrastructureTicket\\Repositories\\TicketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T21:54:04.51Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\TicktTask\backendtask\CoreTicket\bin\Debug\net8.0\CoreTicket.deps.json
+D:\TicktTask\backendtask\CoreTicket\bin\Debug\net8.0\CoreTicket.runtimeconfig.json
+D:\TicktTask\backendtask\CoreTicket\bin\Debug\net8.0\CoreTicket.dll
+D:\TicktTask\backendtask\CoreTicket\bin\Debug\net8.0\CoreTicket.pdb
+D:\TicktTask\backendtask\CoreTicket\obj\Debug\net8.0\CoreTicket.csproj.AssemblyReference.cache
+D:\TicktTask\backendtask\CoreTicket\obj\Debug\net8.0\CoreTicket.GeneratedMSBuildEditorConfig.editorconfig
+D:\TicktTask\backendtask\CoreTicket\obj\Debug\net8.0\CoreTicket.AssemblyInfoInputs.cache
+D:\TicktTask\backendtask\CoreTicket\obj\Debug\net8.0\CoreTicket.AssemblyInfo.cs
+D:\TicktTask\backendtask\CoreTicket\obj\Debug\net8.0\CoreTicket.csproj.CoreCompileInputs.cache
+D:\TicktTask\backendtask\CoreTicket\obj\Debug\net8.0\CoreTicket.dll
+D:\TicktTask\backendtask\CoreTicket\obj\Debug\net8.0\refint\CoreTicket.dll
+D:\TicktTask\backendtask\CoreTicket\obj\Debug\net8.0\CoreTicket.pdb
+D:\TicktTask\backendtask\CoreTicket\obj\Debug\net8.0\CoreTicket.genruntimeconfig.cache
+D:\TicktTask\backendtask\CoreTicket\obj\Debug\net8.0\ref\CoreTicket.dll
