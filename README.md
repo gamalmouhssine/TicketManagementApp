@@ -1,7 +1,7 @@
 # Ticket Management Web Application
 
 ### Overview 
-This is a web application designed to manage tickets with basic CRUD (Create, Read, Update, Delete) functionality. It is developed using .NET 8 for the backend and a TypeScript-based frontend framework (React/Angular). The system allows users to create, view, update, and delete tickets.
+This is a web application designed to manage tickets with basic CRUD (Create, Read, Update, Delete) functionality. It is developed using .NET 8 for the backend and a TypeScript-based frontend framework (React). The system allows users to create, view, update, and delete tickets.
 
 ### Features
 - Create, Read, Update, Delete (CRUD) operations for managing tickets.
