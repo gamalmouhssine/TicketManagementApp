@@ -26,7 +26,6 @@ namespace TicketManagementTests
         [Fact]
         public async Task GetTickets_ReturnsOkResult_WithTicketList()
         {
-            // Arrange
             var mockTickets = new List<Ticket>
             {
                 new Ticket {  Description = "Test Ticket 1", Status = TicketStatus.open },
